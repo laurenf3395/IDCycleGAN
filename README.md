@@ -32,10 +32,10 @@ Packages needed:
 - ffmpeg( conda install -c conda-forge ffmpeg)
 
 ## Results
-![Result](https://github.com/laurenf3395/Semester_Projects/blob/master/Project1-%20IDCycleGAN/Img_to_Video_to_Img.PNG/)
+![Result]([https://github.com/laurenf3395/Semester_Projects/blob/master/Project1-%20IDCycleGAN/Img_to_Video_to_Img.PNG/](https://github.com/laurenf3395/IDCycleGAN/blob/main/Img_to_Video_to_Img.PNG))
 
 Real Image to fake videos generated(32 frames: shown here Frame 0, 8, 16, 32) to images generated from fake videos
 
 ## Results with different losses
-![Result](https://github.com/laurenf3395/Research_Projects/blob/master/Project1-%20IDCycleGAN/Results_different_losses.PNG)
+![Result](https://github.com/laurenf3395/IDCycleGAN/blob/main/Results_different_losses.PNG)
 
